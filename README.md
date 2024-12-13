@@ -17,6 +17,6 @@
 
 ![image alt](https://github.com/VladislavKostyuk-1/RPKS-lb1/blob/55ff34de05653060b0c72459b8099375429dde55/Screenshots/3.1.jpg)
 
-Змінимо вміст файлу hello.html на наступний: "<h1>Hello, World!</h1>". Перевіримо статус репозиторію ще раз і отримаємо повідомлення про те що наявні не збережені зміни:
+Змінимо вміст файлу hello.html на наступний: "<h1Hello, World!/h1>". Перевіримо статус репозиторію ще раз і отримаємо повідомлення про те що наявні не збережені зміни:
 
 ![image alt](https://github.com/VladislavKostyuk-1/RPKS-lb1/blob/55ff34de05653060b0c72459b8099375429dde55/Screenshots/4.2.jpg)
